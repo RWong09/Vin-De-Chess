@@ -10,6 +10,7 @@ It’s a fun chess project that not only lets you grind chess but also lets you 
 - 🎨 Customization: Change the design of pieces and boards (add your own designs too!).
 - 🧩 Custom Positions: Create and study valid chess positions to improve your game.
 - 😂 Chess Memes: Enjoy memes with descriptions to lighten the mood.
+- 🤸‍♂️ Freestyle Chess: Yes! Chess960 aka Freestyle Chess is available in Vin De Chess!
 
 
 # 🚀 How to Run
