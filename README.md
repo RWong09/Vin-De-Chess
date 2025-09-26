@@ -37,5 +37,5 @@ It’s a fun chess project that not only lets you grind chess but also lets you 
 
 # 📌 Notes
 
-- Built with Python (pygame).
+- Built with Python (Pygame).
 - Best experienced with your own custom chess designs.
